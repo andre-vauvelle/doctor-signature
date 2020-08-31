@@ -1,0 +1,12 @@
+joblib
+hyperopt
+torch==1.5.0
+allennlp
+pandas
+sklearn
+sacred
+gensim
+python-dotenv
+dill
+seaborn
+jupyter-notebook
