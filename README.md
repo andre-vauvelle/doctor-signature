@@ -1,5 +1,3 @@
-Doctor Signature
-==============================
 
 This project aims to investigate the effectiveness of Signature Methods to extract predictive and meaningful time series features from Electronic Healthcare Records (EHR) for heart failure (HF) disease early diagnosis. The project will investigate the task using data from the Clinical Practice Research Datalink (CPRD) linked to Biobank data using event based EHR data from routinely collected primary and secondary care providers. 
 
@@ -42,12 +40,7 @@ Project Organization
         ├── models         <- Scripts to train models and then use trained models to make
         │   │                 predictions
         │   ├── predict_model.py
-        │   └── train_model.py
-        │
+        │   └── train_model.py │
         └── visualization  <- Scripts to create exploratory and results oriented visualizations
             └── visualize.py
 
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
