@@ -16,7 +16,7 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── experiments        <- python experiment files for running on cluser
+    ├── experiments        <- python experiment files for running on cluser, includes hyperparameter bounds for each model type
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
